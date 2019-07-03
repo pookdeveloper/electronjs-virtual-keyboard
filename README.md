@@ -5,4 +5,6 @@ Example of a virtual keyboard on electron, it based on [Mottie](https://mottie.g
 - npm install
 - npm start
 
+![alt text](example.gif)
+
 That's all folks
